@@ -75,6 +75,9 @@ putpixel(xcenter-y,ycenter-x,1);
 
 
 **Output :**
+
+
+
 ![Screenshot 2025-04-27 174132](https://github.com/user-attachments/assets/93663dc0-4929-48fb-9807-97e5f11746d4)
 
 **Result :**
